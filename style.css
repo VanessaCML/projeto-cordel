@@ -8,13 +8,13 @@
 
 @font-face{
     font-family: 'Cordel';
-    src:url('../fontes/cordelina.otf') format('opentype');
+    src:url('fontes/cordelina.otf') format('opentype');
     font-weight: normal;
 }
 
 @font-face{
     font-family: 'Eldes Cordel';
-    src:url('../fontes/EldesCordel-Demo.otf') format('opentype');
+    src:url('fontes/eldescordel.otf') format('opentype');
     font-weight: normal;
 }
 

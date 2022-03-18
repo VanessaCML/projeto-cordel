@@ -176,7 +176,7 @@ footer{
     padding: 20px;
     color: rgb(82, 58, 24);
     font-family: var(--font0);
-    font-size: 1em;
-    font-stretch: normal;
+    font-size: 0.9em;
+    font-stretch: condensed;
 }
     
